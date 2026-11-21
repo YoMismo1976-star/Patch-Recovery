@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://transfer.sh/default: 'https://github.com/YoMismo1976-star/Patch-Recovery/releases/download/rc1/recovery.img'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
